@@ -111,7 +111,7 @@ Beyond mere presence, however, a successful course requires student participatio
 
 ### Course Website
 
-The course website for this class can be found at [http://www.professorpipe.com/spring2015](http://www.professorpipe.com/spring2015). You should get in the habit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here.
+The course website for this class can be found at [http://spring2015.professorpipe.com/](http://spring2015.professorpipe.com/). You should get in the habit of checking this regularly as I will post suggestions and thoughts about the readings here, as well as links to other things that might interest the class. The syllabus can be found here as well, and any changes to the syllabus will be posted here.
 
 ### A Note on Technology
 
