@@ -2,8 +2,8 @@ markdown: redcarpet
 highlighter: null
 permalink: /:title
 
-url:
-baseurl:
+url: http://kellygrape.github.io/com402/
+baseurl: /com402
 
 redcarpet:
   extensions: [strikethrough, tables]
