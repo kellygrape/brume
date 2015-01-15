@@ -1,8 +1,11 @@
 - url: /
   title: Home
+  external: false
 
 - url: http://www.professorpipe.com/com402
   title: Student Blogs
+  external: true
   
 - url: /syllabus
   title: Syllabus
+  external: false
