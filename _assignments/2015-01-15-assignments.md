@@ -4,6 +4,10 @@ title: Jan 15, 2015 - Assignments
 date: 1/15/2015
 ---
 
+##Due Date
+
+All assignments are due before the start of our next class.
+
 ##To Read
 
 - Read the [Syllabus](/syllabus)!
@@ -32,6 +36,10 @@ date: 1/15/2015
   - Filezilla
 
 ##Writing Topics
+
+Answer the following questions as a post on your class-created Wordpress blog.  All three questions can be answered in a single post.  This post should be a reasonable length (about 250 words).
+
+Feel free to utilize any media you wish, including images or video.  Incorporating media is not a requirement.
 
 - What did you like about taking web design?  What made you interested in taking this class?
 - What do you hope to learn in this class?  What things on the syllabus interest you?
