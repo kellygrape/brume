@@ -34,7 +34,7 @@ title: Home
     </div>
     <div class="post-extras col span_12">
       {% if post.hasassignment == true  %}
-      <a href="assignments/{{ post.assignmentlink }}.html">Assignments</a>
+      <a href="{{ site.baseurl }}assignments/{{ post.assignmentlink }}.html">Assignments</a>
       {% endif %}
     </div>
   </article>
