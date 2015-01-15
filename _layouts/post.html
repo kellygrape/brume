@@ -7,4 +7,8 @@ layout: default
   <time class="published" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date_to_long_string }}</time>
 
   {{ content }}
+  
+  {% if page.hasassignment == true  %}
+    <h2><a href="/assignments/{{ page.assignmentlink }}.html">Assignments</a></h2>
+  {% endif %}
 </article>

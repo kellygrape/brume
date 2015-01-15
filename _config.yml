@@ -11,3 +11,7 @@ redcarpet:
 sass:
   sass_dir: public/css
   style: :compressed
+  
+collections:
+  assignments:
+    output: true
