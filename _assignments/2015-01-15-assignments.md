@@ -26,11 +26,11 @@ All assignments are due before the start of our next class.
   - Email me when you have completed this.  You should send me a link to your achievements page.
   
   
-5. Sign up for the [GitHub Education pack](https://education.github.com/pack)
+5. Sign up for a [Github Student Account](https://education.github.com/discount_requests/new) - you should already be logged into your own account, and this will allow you to upgrade your account for free.  As a student, you can create a number of private repositories.
   - Create a private repository and call it "com402"
 
 6. Install the following programs, if you have not done so already:
-  - MAMP
+  - MAMP or [XAMPP (for Windows)](https://www.apachefriends.org/index.html)
   - GitHub for Mac (alternative: sourcetree) - if you had this last semester, make sure you UPDATE IT.
   - Brackets
   - Filezilla
