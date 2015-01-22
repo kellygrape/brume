@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Jan 19, 2015 - Syllabus Day / Intro to Class
-assignmentlink: 2015-01-15-assignments
+title: Jan 21, 2015 - Servers / LAMP
+assignmentlink: 2015-01-21-assignments
 hasassignment: true
 ---
 
