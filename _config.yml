@@ -1,5 +1,5 @@
 markdown: redcarpet
-highlighter: null
+highlighter: pygments
 permalink: /:title
 
 url: http://spring2015.professorpipe.com/
