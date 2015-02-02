@@ -67,5 +67,5 @@ Everyone should have a functioning local server.  Launch your local server, and 
 
 ## Resources
 
-- https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/set-the-viewport
-- http://webdesign.maratz.com/lab/responsivetypography/realtime/ (turn on camera and demonstrate responsive text!)
+- [Google Web Basics about Responsive Design](https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/set-the-viewport)
+- [A Different Way to consider responsiveness](http://webdesign.maratz.com/lab/responsivetypography/realtime/) (turn on camera and demonstrate responsive text!)
