@@ -12,6 +12,9 @@ All assignments are due before the start of our next class.
 
 Finish you work on your layout begun in class.  For extra practice, work on one or two of the other layouts.
 
+Buy the Javascript book from our class syllabus.  You will have an assigned reading from this next week.
+
+
 ##To Read
 
 Read the following from Lesson 5 in Hack Design
