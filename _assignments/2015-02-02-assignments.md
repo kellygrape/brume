@@ -15,12 +15,14 @@ Finish you work on your layout begun in class.  For extra practice, work on one 
 ##To Read
 
 Read the following from Lesson 5 in Hack Design
+
 - [Reminder: Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)
 - [Choosing the Right Font: A Practical Guide to Typography on the Web](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
 - [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/) (Work through each section of this!)
 - [Checklist for Better Web Typography](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
 
 Do the following from Lesson 7 in Hack Design
+
 - Read [Contrast Through Scale](http://typecast.com/blog/contrast-through-scale)
 - Try out the [Typecast Tool](http://typecast.com/)
   - Paste in a blog post, try to get one with a nice range of headings, paragraphs, and blockquotes (find a few examples).  Make it all one typeface.
