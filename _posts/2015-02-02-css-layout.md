@@ -61,6 +61,10 @@ Everyone should have a functioning local server.  Launch your local server, and 
 
 - Choose one of the mockups and replicate it using HTML and CSS.  Your design doesn't have to be perfectly responsive, but you should not have any fixed-width elements.
 
+- <a href="../media/0202/layout1.png">Layout #1</a> (note - the round things on this should be social media icons.  You don't have to make them circular.)
+- <a href="../media/0202/layout2.png">Layout #2</a>  (note - the round things on this should be social media icons.  You don't have to make them circular.)
+- <a href="../media/0202/layout3.png">Layout #3</a>
+
 ## Resources
 
 - https://developers.google.com/web/fundamentals/layouts/rwd-fundamentals/set-the-viewport
