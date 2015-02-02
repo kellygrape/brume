@@ -59,7 +59,7 @@ Everyone should have a functioning local server.  Launch your local server, and 
 
 ### Coding Work
 
-- Choose one of the mockups and replicate it using HTML and CSS.  Your design doesn't have to be perfectly responsive, but you should not have any fixed-width elements.
+- Choose one of the mockups and replicate it using HTML and CSS.  Your design doesn't have to be perfectly responsive, but you should not have any fixed-width elements.  Note - these are just simple mock-ups.  Colors, text, and fonts used are just for demonstration purposed - you can choose your own colors and fonts.  Pay attention to white space!
 
 - <a href="../media/0202/layout1.png">Layout #1</a> (note - the round things on this should be social media icons.  You don't have to make them circular.)
 - <a href="../media/0202/layout2.png">Layout #2</a>  (note - the round things on this should be social media icons.  You don't have to make them circular.)
