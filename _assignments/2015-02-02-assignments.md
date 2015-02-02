@@ -15,16 +15,16 @@ Finish you work on your layout begun in class.  For extra practice, work on one 
 ##To Read
 
 Read the following from Lesson 5 in Hack Design
-- https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words
-- http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15
-- http://www.kaikkonendesign.fi/typography/
-- http://www.merttol.com/articles/web/checklist-for-better-web-typography.html
+- [Reminder: Design is still about words](https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words)
+- [Choosing the Right Font: A Practical Guide to Typography on the Web](http://webdesign.tutsplus.com/articles/choosing-the-right-font-a-practical-guide-to-typography-on-the-web--webdesign-15)
+- [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/) (Work through each section of this!)
+- [Checklist for Better Web Typography](http://www.merttol.com/articles/web/checklist-for-better-web-typography.html)
 
-Read the following from Lesson 7 in Hack Design
-- http://typecast.com/blog/contrast-through-scale
-- Try out the Typecast Tool
-- Paste in a blog post, try to get one with a nice range of headings, paragraphs, and blockquotes (find a few examples).  Make it all one typeface.
-- Make five different variations of the page, experimenting with typographic devices such as font size, line height, paragraph spacing & line length. Then get friends to rate them in order of readability.
+Do the following from Lesson 7 in Hack Design
+- Read [Contrast Through Scale](http://typecast.com/blog/contrast-through-scale)
+- Try out the [Typecast Tool](http://typecast.com/)
+  - Paste in a blog post, try to get one with a nice range of headings, paragraphs, and blockquotes (find a few examples).  Make it all one typeface.
+  - Make five different variations of the page, experimenting with typographic devices such as font size, line height, paragraph spacing & line length. Then get friends to rate them in order of readability.
 
 ##Writing Topics
 
