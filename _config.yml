@@ -1,9 +1,9 @@
 markdown: redcarpet
-highlighter: null
+highlighter: pygments
 permalink: /:title
 
-url: http://kellygrape.github.io/com402/
-baseurl: /com402
+url: http://spring2015.professorpipe.com/
+baseurl: 
 
 redcarpet:
   extensions: [strikethrough, tables]
