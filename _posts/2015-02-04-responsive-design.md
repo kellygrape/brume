@@ -59,9 +59,14 @@ The basic conditions you will see are:
 There are more than 10 media types, but the most commonly used ones are : 
 
 ```
-screen (media type, generally refers to things viewed on a screen, including mobile devices)
-print (media type, generally refers to printed documents.  This is how your page will look when printed!)
-all (all of the media types combined - use this to apply to both screen and print!)
+screen (media type, generally refers to things 
+        viewed on a screen, including mobile devices)
+   
+print (media type, generally refers to printed documents.  
+      This is how your page will look when printed!)
+   
+all (all of the media types combined - use this to apply 
+     to both screen and print!)
 ```
 
 #### Measurements
