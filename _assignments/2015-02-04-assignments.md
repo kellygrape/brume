@@ -35,8 +35,8 @@ Read the following from Lesson 15 & 22 in Hack Design.  These readings will help
 
 3) Scan through the list of UX Myths.  Read at least the titles of each one.  Choose one and respond to it.  My suggestions are below, but you can choose whatever you would like.
     
-  -[Myth #4: Design is about making a website look good](http://uxmyths.com/post/654070104/myth-design-is-about-making-a-website-look-good)
-  -[Myth #9: Design has to be original](http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original)
-  -[Myth #17: The homepage is your most important page](http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page)
-  -[Myth #19: You don’t need the content to design a website](http://uxmyths.com/post/718187422/myth-you-dont-need-the-content-to-design-a-website)
-  -[Myth #28: White space is wasted space](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
+  - [Myth #4: Design is about making a website look good](http://uxmyths.com/post/654070104/myth-design-is-about-making-a-website-look-good)
+  - [Myth #9: Design has to be original](http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original)
+  - [Myth #17: The homepage is your most important page](http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page)
+  - [Myth #19: You don’t need the content to design a website](http://uxmyths.com/post/718187422/myth-you-dont-need-the-content-to-design-a-website)
+  - [Myth #28: White space is wasted space](http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space)
