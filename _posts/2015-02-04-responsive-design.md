@@ -1,7 +1,7 @@
 ---
 layout: post
-title: February 2, 2015 - Responsive Design & Boilerplates
-assignmentlink: 2015-02-02-assignments
+title: February 4, 2015 - Responsive Design & Boilerplates
+assignmentlink: 2015-02-04-assignments
 hasassignment: true
 ---
 
