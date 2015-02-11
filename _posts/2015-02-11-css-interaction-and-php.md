@@ -75,18 +75,18 @@ Let's play around with this on CodePen.
 
 ###CodePen, SASS, Jade/HAML
 
-http://codepen.io/sforsparky/pen/HoLcy
+CodePen allows you to write shorthand CSS and HTML.  Let's talk about these options!
 
+[Example pen using these options](http://codepen.io/sforsparky/pen/HoLcy)
 
 ### Free Coding Time
 
-- Create a new file in your Skeleton folder.  
-- Name it **layout.html**.  
-- Include the skeleton grid and normalize (like in your landing page!)  
-- Create a new CSS file and name it layout.css
-- Include this CSS file in your layout file.
-- Try to replicate <a href="../media/0202/layout3.png">this layout</a> using Skeleton's CSS.  Does having the grid system already built help you?
+- Play around with CSS Transitions and Transforms!
+- Start working on Project #1 (linked from today's Assignments)
   
-###Examples
+###Cool Examples
 
-http://codepen.io/kellygrape/pen/GgydqJ
+[Rotating Text](http://codepen.io/kellygrape/pen/GgydqJ)
+
+  - Forked from [Liz](http://codepen.io/lizink/)'s Pen [Rotating Words](http://codepen.io/lizink/pen/EkAdH/).
+  - [Original tutorial found here](http://tympanus.net/codrops/2012/04/17/rotating-words-with-css-animations/)
