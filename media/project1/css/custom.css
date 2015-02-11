@@ -1,0 +1,50 @@
+body{
+  background-color: #cf5230;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+header{
+  text-align: center;
+  padding: 50px 0;
+  color: white;
+}
+
+h1, h2, h3{
+	font-family: 'Elsie Swash Caps', cursive;
+}
+
+h4{
+  font-weight: bold;
+  text-align: center;
+  font-size: 14px;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+  opacity: .75;
+  position:relative;
+  z-index: 5;
+}
+
+.main{
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.main img:hover{
+  opacity: 1;
+  z-index: 10;
+  -moz-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  -o-transform: scale(1.5);
+  -ms-transform: scale(1.5);
+  transform: scale(1.5);
+  -webkit-transition: all 200ms ease;
+  -moz-transition: all 200ms ease;
+  -ms-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
