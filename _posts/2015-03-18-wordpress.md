@@ -2,7 +2,7 @@
 layout: post
 title: March 18, 2015 - Wordpress
 assignmentlink: 2015-03-18-assignments
-hasassignment: false
+hasassignment: true
 ---
 
 ##Class Goal
