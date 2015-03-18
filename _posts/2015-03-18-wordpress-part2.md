@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March 18, 2015 - Wordpress
+title: March 18, 2015 - Wordpress Activity
 assignmentlink: 2015-03-18-assignments
 hasassignment: true
 ---
