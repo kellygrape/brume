@@ -30,18 +30,18 @@ There is no in-class session today, but please follow the activity below.  You w
 
 You should strive to emulate one of the following demos from the Layers website:
 
-- (Business Website Demo)[http://sites.layerswp.com/acquire/]
-- (Bakery Demo)[http://sites.layerswp.com/baking/]
+- [Business Website Demo](http://sites.layerswp.com/acquire/)
+- [Bakery Demo](http://sites.layerswp.com/baking/)
 
 You should:
 
-1) Incorporate a menu that links to your home page and your two other pages
-2) Use two different, contrasting fonts - there is a way that you can set the heading font and the body font in Layers.  It incorporates Google Web Fonts for you!
-3) Use bold images or blocks of color.
-4) Incorporate a content or image slider somewhere in the website.
-5) Utilize three to five distinct content sections on the home page.  You can see an example of this on the Bakery site - the slider at the top, followed by a small content section with the three cupcakes in columns, then the section with the addons, followed by the footer.
-6) Include a "Contact Us" form on one of the pages
-7) At least one of your pages, aside from the home page, should utilize the 'Page Builder' template ([how to change the page template](https://en.support.wordpress.com/pages/page-attributes/)).  This will enable the page builder similar to the front page.
+1. Incorporate a menu that links to your home page and your two other pages
+2. Use two different, contrasting fonts - there is a way that you can set the heading font and the body font in Layers.  It incorporates Google Web Fonts for you!
+3. Use bold images or blocks of color.
+4. Incorporate a content or image slider somewhere in the website.
+5. Utilize three to five distinct content sections on the home page.  You can see an example of this on the Bakery site - the slider at the top, followed by a small content section with the three cupcakes in columns, then the section with the addons, followed by the footer.
+6. Include a "Contact Us" form on one of the pages
+7. At least one of your pages, aside from the home page, should utilize the 'Page Builder' template ([how to change the page template](https://en.support.wordpress.com/pages/page-attributes/)).  This will enable the page builder similar to the front page.
 
 ###Resources You Can Use
 
