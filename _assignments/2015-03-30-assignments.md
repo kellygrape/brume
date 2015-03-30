@@ -1,16 +1,10 @@
 ---
 layout: page
-title: March 23, 2015 - Assignments
-date: 3/23/2015
+title: March 30, 2015 - Assignments
+date: 3/30/2015
 ---
 
-### Activity
-
-Finish the [activity from last week](../_posts/2015-03-18-wordpress-part2.html).  Remember, this counts as part of Project #3.
-
-I will not be here on Wednesday.  I will begin grading Wednesday evening around 9:00.  If you have any issues, please email me.
-
-### Work on Project #2
+### Finish Project #2
 
 [Project Number 2](2015-03-04-project2.html), worth 20% of your final grade, is due on April 1, 2015.  This is a large project, so do not leave it to the last minute.
 
