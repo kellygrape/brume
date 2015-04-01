@@ -1,19 +1,16 @@
 ---
 layout: post
-title: March 30, 2015 - Wordpress - SEO and Plugins
-assignmentlink: 2015-03-30-assignments
-hasassignment: true
+title: April 1, 2015 - Wordpress - Plugins and Google Analytics
+assignmentlink: 2015-04-01-assignments
+hasassignment: false
 ---
 
-##Class Goal
+##April Fools!
 
-Today we will be looking at how to utilize Wordpress plugins to implement advanced functionality and get cool things on our sites!
-
-##SEO
-
-  - Read [WordPress SEO](https://yoast.com/articles/wordpress-seo/)
-
-On your **local wordpress installation**, install the Yoast SEO Plugin.  Let's walk through this process together.
+Today is a day when a lot of websites like to do fun things for April Fools.  Let's look at some of them.
+- [Amazon](http://www.amazon.com/)
+- [Backwards Google](https://com.google/)
+- [Oberlin](https://home.oberlin.edu/)
 
 ##Jetpack
 
@@ -21,8 +18,9 @@ On your **local wordpress installation**, install the Yoast SEO Plugin.  Let's w
 
 On your **local wordpress installation**, install the Jetpack Plugin.  Let's walk through this process together.
 
-##Plugins and Security
+##Google Analytics
 
-- Always keep your plugins updated
-- Be sure that the plugin you are selecting is compatible with your version of wordpress
-- There is typically not any technical support available with plugins, but the wordpress forums are a great resource if you need help.
+Google Analytics is a very powerful tool that allows you to track the traffic coming to your website.  It is difficult to demonstrate this without showing an actual Google Analytics profile, so let's look at the SJU web traffic.
+
+
+Your assignment for Easter Break is to start thinking about what content you would like to have on your final website, and to start collecting that content.  **Do not** start creating your site.
