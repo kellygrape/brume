@@ -23,7 +23,7 @@ We will be editing an already created theme directly in this exercise.  **We are
 
 Let's talk about basic theme development.  Please follow along with this exercise.
 
-- [Download this theme](../media/h5.zip).  Do not unzip it.
+- [Download this theme](/media/h5.zip).  Do not unzip it.
 - Start your local server
 - Open up your local Wordpress installation and Log In
 - Go to the "Appearance" section.
@@ -61,7 +61,7 @@ As Wordpress generates your website, it will look at the content that you are re
 Let's add something special to the header of all of our **pages**.  We are going to edit the `page.php` file.
 
 - From the h5 folder, open the file `page.php` in your favorite code editor.
-- There is a lot of strange code, but you should be able to recognize the HTML in this file.  Find the <h1> tag.
+- There is a lot of strange code, but you should be able to recognize the HTML in this file.  Find the `<h1>` tag.
 - After the `<h1>` tag, add an `<h2>` tag.  Inside this tag, write "This is a Wordpress Page"
 - Save this file
 
@@ -73,7 +73,7 @@ Now, we need to add a page to our Wordpress installation in order to see this.
 
 ### Custom Page Templates
 
-[Custom Page Templates on our Wordpress Reference](wordpress/themeing-page-templates.html)
+[Custom Page Templates on our Wordpress Reference](/wordpress/themeing-page-templates.html)
 
 Now that we have edited our `page.php` template, we may decide that we want specific pages to have a different look - maybe we want a specific page to have our 'About Us' page to have different text in the `<h2>` tag that we created before.
 
@@ -108,7 +108,7 @@ Now that we've created a Custom Template, we can active it on any of our pages. 
 
 ### Child Themes
 
-We have talked before in class about creating child themes.  I've pulled out that lesson and copied it here - [About Child Themes on our Wordpress Reference](wordpress/themeing-child-theme.html)
+We have talked before in class about creating child themes.  I've pulled out that lesson and copied it here - [About Child Themes on our Wordpress Reference](/wordpress/themeing-child-theme.html)
 
 Now that you know a little bit more about theme files in Wordpress, you can do more with your child theme than just change the stylesheet.
 
