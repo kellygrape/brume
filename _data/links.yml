@@ -9,3 +9,7 @@
 - url: /syllabus
   title: Syllabus
   external: false
+
+- url: /wordpress
+  title: Wordpress Help
+  external: false

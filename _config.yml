@@ -15,3 +15,5 @@ sass:
 collections:
   assignments:
     output: true
+  wordpress:
+    output: true

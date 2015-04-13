@@ -1,0 +1,18 @@
+---
+layout: wparchive
+title: Wordpress Help 
+---
+
+<section class="archive">
+  <div class="bundle row gutters fadeInDown animated">
+  {% for post in site.wordpress %}
+  {% unless post.url == "/wordpress/index.html" %}
+  
+  <article class="row gutters">
+    <a href="{{ site.baseurl }}{{ post.url }}" title="{{ post.title }}" class="col span_8">{{ post.title }}</a>
+  </article>
+  
+  {% endunless %}
+  {% endfor %}
+  </div>
+</section>
