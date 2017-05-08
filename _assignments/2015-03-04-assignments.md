@@ -1,7 +1,7 @@
 ---
 layout: page
 title: March 4, 2015 - Assignments
-date: 3/4/2015
+date: 2015-3-4
 ---
 
 

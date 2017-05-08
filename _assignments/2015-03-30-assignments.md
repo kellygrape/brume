@@ -1,7 +1,7 @@
 ---
 layout: page
 title: March 30, 2015 - Assignments
-date: 3/30/2015
+date: 2015-3-30
 ---
 
 ### Finish Project #2

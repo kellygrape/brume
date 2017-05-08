@@ -1,7 +1,7 @@
 ---
 layout: page
 title: March 23, 2015 - Assignments
-date: 3/23/2015
+date: 2015-3-23
 ---
 
 ### Activity

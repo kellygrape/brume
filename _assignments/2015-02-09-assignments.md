@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feb 09, 2015 - Assignments
-date: 2/9/2015
+date: 2015-2-9
 ---
 
 ##Due Date

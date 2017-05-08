@@ -1,7 +1,7 @@
 ---
 layout: page
 title: March 16, 2015 - Assignments
-date: 3/16/2015
+date: 2015-3-16
 ---
 
 ### Do the activity from today's lesson

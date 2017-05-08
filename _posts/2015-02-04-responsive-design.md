@@ -97,7 +97,7 @@ Visit the [Initializr tool](http://www.initializr.com/), then choose the followi
 
 You will want to unzip this into a **new folder** in your **document root**.  You can call this folder **boilerplate**.
 
-### Coding Work
+### Assignment (Due Tuesday, February 9)
 
 - Explore the HTML5 Boilerplate template you have downloaded
   
@@ -108,22 +108,38 @@ You will want to unzip this into a **new folder** in your **document root**.  Yo
   - Add Font Awesome social media icons
 
 - Experiment with the provided media queries
-  
+
   - can you change the header color when the browser is over 700px?
+
+Once you have had a chance to experiment with HTML5BP, choose one of the following two p
+
+- Take your Codepen project (project #1) and utilize 
+
+### Readings (read these for February 9th as well)
+
+Check out the [9 basic principles of responsive web design](http://blog.froont.com/9-basic-principles-of-responsive-web-design/) - this is short and has lots of graphics.  Do you recognize some of these responsive design patterns?  You should be familiar with the difference between **Relative and Static units**, have a familiarity with **what breakpoints are**, and have a concept of what adding a wrapper with a **max width** will do to your content.
+
+Read the following from Lesson 15 & 22 in Hack Design.  These readings will help you to recognize mobile design patterns, and help you review what we learned in today's class.
+
+- [Responsive Web Design by Ethan Marcotte](http://alistapart.com/article/responsive-web-design) (I know, you've read it before!  Just wanted to remind you it exists.  Do you understand anything about this article more now than you did before?  How has your understanding of this topic changed?)
+- [Responsive Navigation Patterns](http://bradfrost.com/blog/web/responsive-nav-patterns/)
+- [Multi-Device Layout Patterns](http://www.lukew.com/ff/entry.asp?1514)
+- [Mobile Patterns](http://www.mobile-patterns.com/)
+
+**If you're interested**, look into the [User Experience lessons](https://hackdesign.org/lessons/9), [Defining & Expanding User Experience](https://hackdesign.org/lessons/11), and [Understanding the User in User Experience](https://hackdesign.org/lessons/12).  User Experience is a huge area of web and interaction design, and salaries for UX experts are quite high.
 
 ## Resources
 
-[A really good tutorial on CSS and Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries)
-[CSS Tricks - CSS Media Queries & Using Available Space](http://css-tricks.com/css-media-queries/)
-[CSS Tricks - Media Queries for Standard Devices](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-(http://alistapart.com/article/responsive-images-in-practice)
+- [A really good tutorial on CSS and Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/#media-queries)
+- [CSS Tricks - CSS Media Queries & Using Available Space](http://css-tricks.com/css-media-queries/)
+- [CSS Tricks - Media Queries for Standard Devices](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
 
 ### Some Responsive Examples
 
-[Marcotte's Example](http://alistapart.com/d/responsive-web-design/ex/ex-site-FINAL.html)
-[Lots of examples at Mediaqueri.es](http://mediaqueri.es/)
+- [Marcotte's Example](http://alistapart.com/d/responsive-web-design/ex/ex-site-FINAL.html)
+- [Lots of examples at Mediaqueri.es](http://mediaqueri.es/)
 
 ### More about HTML5 Boilerplate
 
-[Sitepoint's HTML5BP Introduction](http://www.sitepoint.com/introduction-html5-boilerplate/)
-[HTML5BP in Simple Terms](http://ningbit.github.io/blog/2013/09/30/html5-boilerplate-explained-in-simple-terms/)
+- [Sitepoint's HTML5BP Introduction](http://www.sitepoint.com/introduction-html5-boilerplate/)
+- [HTML5BP in Simple Terms](http://ningbit.github.io/blog/2013/09/30/html5-boilerplate-explained-in-simple-terms/)
